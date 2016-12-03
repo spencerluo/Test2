@@ -15,6 +15,5 @@ public class NewTest {
 	  System.out.println("g");
 	  Reporter.log("g");
 	  System.out.println("bukeqi and xiexie");
-
   }
 }
