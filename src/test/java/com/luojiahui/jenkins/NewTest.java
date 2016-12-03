@@ -14,5 +14,6 @@ public class NewTest {
   public void g(){
 	  System.out.println("g");
 	  Reporter.log("g");
+	  System.out.println("xiexie");
   }
 }
