@@ -7,6 +7,7 @@ public class NewTest {
   @Test(groups="bbb")
   public void f() {
 	  System.out.println("f");
+	  a = 2/0;
 	  Reporter.log("f");
   }
   
